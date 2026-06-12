@@ -120,5 +120,3 @@ A 41-year-old Regional Sales Director who travels frequently and needs flexible 
 ## License
 
 This project is created for educational, portfolio, and product development purposes.
-
-You can paste this directly into your **README.md** file on GitHub.
